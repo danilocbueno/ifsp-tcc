@@ -4,9 +4,9 @@ Neste repositório irei organizar uma série de instruções para os alunos que 
 
 A primeira coisa é: __prepare-se para fazer as coisas bem feitas__. Acostume-se com isso, mas tenha certeza que o resultado final será bacana!
 
-A segunda coisa é:__organização__. O trabalho de TCC é um trabalho contínuo, ou seja, você precisa se organizar e ter disciplina para o andamento do projeto. Deixar pra fazer na última semana não faz é uma opção. Para tal, você precisa organizar um cronograma para que possamos nos orientar no andamento do projeto.
+A segunda coisa é:__organização__. O trabalho de TCC é um trabalho contínuo, ou seja, você precisa se organizar e ter disciplina para o andamento do projeto. Deixar pra fazer na última semana não é uma opção. Para tal, você precisa organizar um cronograma para que possamos nos orientar no andamento do projeto.
 
-A terceira coisa é: __ferramentas__. Não vamos perder tempo com burocracias, vamos utilizar ferramentas que nos ajudem no processo, para tal é imprescindível a utilização da ferramenta https://www.overleaf.com/. O Overleaf é baseado no Latex que vai ser muito útil para a escrita da sua monografia. Eu recomendo que você invista um tempo e aprenda a utilizá-lo, desta forma, você não precisará se preocupar com regras de formatação de texto, e focar somente no conteúdo. Se você achar muito complexo, não se preocupe, o Overleaf hoje abstrai várias complexidades da linguagem! Acredite, vale a pena!
+A terceira coisa é: __ferramentas__. Não vamos perder tempo com burocracias, vamos utilizar ferramentas que nos ajudem no processo, para tal esqueça o Word e vamos utilizar a ferramenta https://www.overleaf.com/. O Overleaf é baseado no Latex que vai ser muito útil para a escrita da sua monografia. Eu recomendo que você invista um tempo e aprenda a utilizá-lo, desta forma, você não precisará se preocupar com regras de formatação de texto, e focar somente no conteúdo. Se você achar muito complexo, não se preocupe, o Overleaf hoje abstrai várias complexidades da linguagem! Acredite, vale a pena!
 
 # Como começar?
 
