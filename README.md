@@ -14,7 +14,7 @@ Após conversado e acertado a ideia inicial do projeto os próximos passos que v
 + Criar uma conta no https://www.overleaf.com/; 
 + Criar um projeto baseado no template da UTFPR https://www.overleaf.com/latex/templates/utfpr-tcc-template/ypmhjndztmtb
 + Compartilhar comigo o seu projeto! Lembre-se o andamento/acompanhamento do projeto é essencial para que não tenhamos supresas lá na frente.
-+ Criar um cronograma de atividades que você realizará e me enviar para que possamos ajustar os nossos encontros e ter uma visão geral do que precisamos desenvolver. Você é livre pra criar o cronograma da forma que desejar, estou deixando um exemplo aqui 
++ Criar um cronograma de atividades que você realizará e me enviar para que possamos ajustar os nossos encontros e ter uma visão geral do que precisamos desenvolver. Você é livre pra criar o cronograma da forma que desejar, estou deixando um exemplo aqui (https://github.com/danilocbueno/ifsp-tcc/blob/master/cronograma-ex.png)
 
 # Normas TCC
 
